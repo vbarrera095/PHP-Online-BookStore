@@ -1,0 +1,21 @@
+body {
+    background-color: #00FFDC;
+}
+
+.container {
+    background-color: #fff;
+}
+
+.pdf-list {
+	width: 80%;
+}
+.card {
+	width: 18rem;
+	height: fit-content;
+}
+.category .list-group {
+	width: 200px;
+}
+.nd {
+	text-decoration: none;
+}

@@ -1,2 +1,2 @@
-# PHP-Online-BookStore
-A browsable online bookstore project I made for my PHP class
+# PHP-Online-Bookstore
+ A browsable online bookstore I did for my PHP class
